@@ -1,0 +1,90 @@
+img {
+  max-width: 30%;
+}
+
+.style1 {
+  color: #b3e0ff;
+  padding: 18px
+}
+
+.style3 {
+  color: black
+}
+
+.style4 {
+  color: #b3e0ff
+}
+
+.gros {
+  font-size: 58px
+}
+
+.p1 {
+  align:center;
+  border-width:5px;
+  padding:20px;
+  border-color: #041242;
+  border-style:solid;
+}
+
+.right {
+  text-align:right
+}
+
+.centre {
+  text-align:center
+}
+
+.accordion {
+  background-color: #041242;
+  color: #b3e0ff;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-family: "Times New Roman";
+  font-size: 20px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #041242;
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: #b3e0ff;
+  overflow: hidden;
+}
+
+header {
+  width: 100%;
+  background-image:url("img/wpheader.png");
+}
+
+body {
+  height: 100%;
+  background: linear-gradient(to bottom, #b3e0ff, #66c2ff);
+}
+
+h2 {
+  padding: 18px;
+  background-color: #041242
+}
+
+h3 {
+  padding: 18px
+}
+
+header {
+  width: 100%;
+  background-image:url("img/wpheader.png");
+}
+
+footer {
+  width: 100%;
+  background-image:url("img/wpfooter.png");
+}
