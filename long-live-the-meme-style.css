@@ -1,0 +1,23 @@
+body {background-color: white;}
+h1 {background-color: #33B8FF;
+width:60%;
+margin: 0 auto;
+padding: 10px;
+margin-bottom:20px;
+border-radius: 25px;}
+h2 {background-color: #33B8FF;
+width:60%;
+margin: 0 auto;
+padding: 5px;
+margin-bottom:20px;
+border-radius: 25px;}
+h1, h2 {text-align:center;}
+article {background-color: #33B8FF;
+width:60%;
+margin: 0 auto;
+padding: 50px;
+margin-bottom:20px;
+border-radius: 25px;}
+
+.style {color: white}
+.style1 {color:#33B8FF}

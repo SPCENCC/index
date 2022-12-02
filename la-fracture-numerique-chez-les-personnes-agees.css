@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+p{font-family: 'Playfair Display', serif;text-align: justify;}
+img{display: flex;margin: 0 auto;text-align: center; float: center; width: 40%; margin: 40 200 40 350px;}
+.style1 {color: pink; background-color: red;}
+body {background: rgb(249,203,156);background: radial-gradient(circle, rgba(249,203,156,1) 0%, rgba(252,229,205,1) 64%, rgba(206,211,239,1) 100%);}
+h1{text-align: center;font-family: 'Playfair Display', serif;}
+h2{text-align: center;font-family: 'Playfair Display', serif;}
+h3{text-align: center;font-family: 'Playfair Display', serif;}
+section{background-color: #ced3ef; width: 80%; margin: 0 auto; padding: 20px; margin-bottom: 5px; border-radius: 50px;}
+.accordion { background-color: #fce5cd; color: #black; cursor: pointer; padding: 18px; width: 100%; border: none; text-align: center; outline: none; font-size: 15px; transition: 0.4s;font-size: 120%; font-family: 'Playfair Display';}
+.active, .accordion:hover { background-color: #f9cb9c;}
+.panel { padding: 0 18px; display: none; background-color: #ced3ef; overflow: hidden;}
+.a{text-align: justify;}
+footer { text-align: left; padding: 20px;width: 100%; border: 15px #45818e; background-color: #ced3ef; color: black;}
+ul{font-family: 'Playfair Display', serif;text-align: justify;}

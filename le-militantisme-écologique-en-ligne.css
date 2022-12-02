@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400;500;600;700&display=swap');
+
+body {
+    /*background-color: #47973A;*/
+    font-family: 'Roboto Slab', serif;
+    background-image: linear-gradient(90deg, #50B65A 0%, #296F30 85%);
+    font-size: 1.3em;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding: 8px 0;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    font-size: xxx-large;
+}
+
+h2 {
+    background: #2A5F2F;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    font-size: xx-large;
+    padding: 5px;
+}
+
+h3 {
+    font-size: 1.6em;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+.style1 {
+    color: red;
+}
+
+img {
+    display: flex;
+    width: 60%;
+    margin: 10px auto;
+}
+
+.bubble {
+    background-color: whitesmoke;
+    width: 70%;
+    border-radius: 25px;
+    /*écart entre les bulles*/
+    margin: 20px auto;
+    padding: 25px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+}
+
+h3, h4 {
+    margin: 10px;
+}
+
+.bubble p {
+    padding: 10px;
+    margin: 0;
+}
+
+footer {
+    padding: 10px;
+    background: #101010;
+    color: gray;
+    font-size: 0.6em;
+}
+
+
+/*Style pour les tableaux*/
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

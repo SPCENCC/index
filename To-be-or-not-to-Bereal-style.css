@@ -1,0 +1,29 @@
+body {background-color: black;}
+h2 {background-color:white;}
+h1 {color:white;}
+h1, h2{text-align:center;}
+a {color: black;}
+
+article {background-color: white;
+  width: 50%;
+  margin: 0 auto;
+  padding: 70px;
+  margin-bottom:20px;
+  border-radius: 20px;
+text-align: justify;}
+
+  .style1 {color: teal;}
+
+
+img{
+  display:flex;
+  margin: 0 auto;
+  text-align:center;
+  float:center;
+  width:20%;
+  margin: 5 5 5 5px;}
+
+
+
+#F2E2D1
+#D1F2EB
