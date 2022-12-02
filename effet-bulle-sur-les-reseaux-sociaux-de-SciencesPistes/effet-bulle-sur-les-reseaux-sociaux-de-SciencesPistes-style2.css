@@ -1,0 +1,724 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("effet-bulle-sur-les-reseaux-sociaux-de-SciencesPistes-1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 5rem;
+  margin: 258px auto 0 20px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 30px 97px 60px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.85), rgba(255,255,255,0.85)), url("page de couverture.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 547px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 132px auto 60px 0;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 355px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 4.5rem;
+}
+
+.u-section-2 .u-line-1 {
+  width: 100px;
+  height: 3px;
+  margin: 30px auto 0 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 355px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 412px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 293px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 293px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 316px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 224px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 224px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 296px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 336px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 336px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 149px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 212px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 212px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 553px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 60px auto 0;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 255px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-2 {
+  margin-top: 0;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 255px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-3 {
+  margin-top: 0;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 555px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 23px 17px;
+}
+
+.u-section-3 .u-text-4 {
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 456px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 210px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 210px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 458px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 349px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 262px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 165px;
+  }
+} .u-section-4 {
+  min-height: 66px;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 655px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 655px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 182px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 19px 0 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 655px;
+  background-image: url("effet-bulle-sur-les-reseaux-sociaux-de-SciencesPistes-1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    min-height: 318px;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 89px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 540px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 540px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-4 {
+    min-height: 66px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 414px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 621px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-image-1 {
+    min-height: 391px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 1089px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 70px 70px 0 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 24px 84px 0 0;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 39px 98px 0 0;
+}
+
+.u-section-5 .u-text-4 {
+  margin: 34px 144px 0 0;
+}
+
+.u-section-5 .u-text-5 {
+  margin: 23px 84px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-text-5 {
+    margin-right: 0;
+  }
+}.u-section-6 .u-sheet-1 {
+  min-height: 1562px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 29px 0 0;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 35px 29px 0 585px;
+}
+
+.u-section-6 .u-text-3 {
+  margin: 29px 82px 0 585px;
+}
+
+.u-section-6 .u-text-4 {
+  margin: 39px 68px 0 585px;
+}
+
+.u-section-6 .u-text-5 {
+  margin: 24px 68px 0 585px;
+}
+
+.u-section-6 .u-text-6 {
+  margin: 39px 0 0 585px;
+}
+
+.u-section-6 .u-text-7 {
+  margin: 52px 0 0;
+}
+
+.u-section-6 .u-text-8 {
+  margin: 50px 0 0;
+}
+
+.u-section-6 .u-text-9 {
+  margin: 29px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-text-2 {
+    margin-right: 0;
+    margin-left: 414px;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-right: 53px;
+    margin-left: 414px;
+  }
+
+  .u-section-6 .u-text-4 {
+    margin-right: 39px;
+    margin-left: 414px;
+  }
+
+  .u-section-6 .u-text-5 {
+    margin-right: 39px;
+    margin-left: 414px;
+  }
+
+  .u-section-6 .u-text-6 {
+    margin-left: 414px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-text-2 {
+    margin-left: 194px;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-left: 194px;
+  }
+
+  .u-section-6 .u-text-4 {
+    margin-left: 194px;
+  }
+
+  .u-section-6 .u-text-5 {
+    margin-left: 194px;
+  }
+
+  .u-section-6 .u-text-6 {
+    margin-left: 194px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-text-2 {
+    margin-left: 14px;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-left: 14px;
+  }
+
+  .u-section-6 .u-text-4 {
+    margin-left: 14px;
+  }
+
+  .u-section-6 .u-text-5 {
+    margin-left: 14px;
+  }
+
+  .u-section-6 .u-text-6 {
+    margin-left: 14px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-6 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-6 .u-text-5 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-6 .u-text-6 {
+    margin-left: 0;
+  }
+} .u-section-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("page de couverture.png");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 60px auto 0;
+}
+
+.u-section-7 .u-text-2 {
+  margin: 30px 157px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-left: 57px;
+    margin-right: 57px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 239px;
+  }
+}.u-section-8 .u-sheet-1 {
+  min-height: 312px;
+}
+
+.u-section-8 .u-text-1 {
+  margin: 84px auto 60px;
+}.u-section-9 .u-sheet-1 {
+  min-height: 1520px;
+}
+
+.u-section-9 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 60px;
+}
+
+.u-section-9 .u-text-2 {
+  margin: -16px 233px 0 auto;
+}
+
+.u-section-9 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-section-9 .u-text-4 {
+  margin: 51px 124px 0 0;
+}
+
+.u-section-9 .u-text-5 {
+  margin: 60px 134px 0 0;
+}
+
+.u-section-9 .u-text-6 {
+  margin: 39px 124px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-9 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-9 .u-text-6 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-text-2 {
+    margin-right: 175px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-text-2 {
+    margin-right: 110px;
+  }
+}.u-section-10 .u-sheet-1 {
+  min-height: 317px;
+}
+
+.u-section-10 .u-text-1 {
+  margin: 60px auto;
+}.u-section-11 .u-sheet-1 {
+  min-height: 303px;
+}
+
+.u-section-11 .u-text-1 {
+  margin-bottom: 60px;
+}.u-section-12 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-12 .u-text-1 {
+  margin-bottom: 60px;
+}.u-section-13 .u-sheet-1 {
+  min-height: 313px;
+}
+
+.u-section-13 .u-text-1 {
+  margin: 84px auto 60px;
+}.u-section-14 .u-sheet-1 {
+  min-height: 499px;
+}
+
+.u-section-14 .u-text-1 {
+  margin-bottom: 60px;
+  margin-top: 105px;
+}.u-section-15 .u-sheet-1 {
+  min-height: 926px;
+}
+
+.u-section-15 .u-text-1 {
+  margin: 42px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-15 .u-sheet-1 {
+    min-height: 766px;
+  }
+}
