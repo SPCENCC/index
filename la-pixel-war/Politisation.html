@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style2.css">
+<link rel="icon" type="image/x-icon" href="logo.svg">
+<title>La Politisation</title>
+</head>
+<body>
+<div class="background-image">
+<section class="showcase">
+    <header>
+        <img class="logo" src="logo.svg" ></img>
+        <div class="toggle"></div>
+    </header>
+    <div class="float-container">
+
+        <div class="float-child">
+          <div class="green">
+            <p>Qu'est-ce que la politisation ? C'est la question à laquelle nous réponderons ici, en s'appuyant sur la définition d'Alain Garrigou tout en exemplifiant la réflexion à l'aide des données obtenues par notre enquête. <br>Source : https://doi.org/10.3917/crii.050.0009  </p>
+          </div>
+        </div>
+
+        <div class="float-child">
+          <div class="blue">
+            <video src="Politisation.mp4" controls>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <div class="menu">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="Présentation.html">Présentation</a></li>
+        <li><a href="Psychologie des Foules.html">Psychologie des Foules</a></li>
+        <li><a href="Slacktivisme.html">Slacktivisme</a></li>
+        <li><a href="La Pixel War devient politique.html">La Pixel War devient politique</a></li>
+        <li><a href="Conclusion.html">Conclusion</a></li>
+    </ul>
+    </div>
+</div>
+<script>
+    const menuToggle = document.querySelector('.toggle');
+    const showcase = document.querySelector('.showcase');
+
+menuToggle.addEventListener('click', () => {
+menuToggle.classList.toggle('active');
+showcase.classList.toggle('active');
+})
+</script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style2.css">
+<link rel="icon" type="image/x-icon" href="logo.svg">
+<title>Le Slacktivisme</title>
+</head>
+<body>
+<div class="background-image">
+<section class="showcase">
+    <header>
+        <img class="logo" src="logo.svg" ></img>
+        <div class="toggle"></div>
+    </header>
+    <div class="float-container">
+
+        <div class="float-child">
+          <div class="green">
+            <p>Hassan vous explique la notion de slacktivisme, qui nous a permis de construire notre réflexion autour de la Pixel War, en complément de la psychologie des foules. C'est ce qui nous a servi de base quant à la construction de notre questionnaire. <br> Source : P.S Gomes & D. Renaud : Slacktivisme : cliquer ici pour sauver le monde </p>
+          </div>
+        </div>
+
+        <div class="float-child">
+          <div class="blue">
+          <video src="Slacktivisme.mp4" controls>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <div class="menu">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="Présentation.html">Présentation</a></li>
+        <li><a href="Politisation.html">Politisation</a></li>
+        <li><a href="Psychologie des Foules.html">Psychologie des Foules</a></li>
+        <li><a href="La Pixel War devient politique.html">La Pixel War devient politique</a></li>
+        <li><a href="Conclusion.html">Conclusion</a></li>
+    </ul>
+    </div>
+</div>
+<script>
+    const menuToggle = document.querySelector('.toggle');
+    const showcase = document.querySelector('.showcase');
+
+menuToggle.addEventListener('click', () => {
+menuToggle.classList.toggle('active');
+showcase.classList.toggle('active');
+})
+</script>
+</body>
+</html>

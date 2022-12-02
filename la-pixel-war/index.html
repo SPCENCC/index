@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/x-icon" href="logo.svg">
+<title>Le site du R/place wtf </title>
+</head>
+<body>
+<div class="background-image">
+<section class="showcase">
+    <header>
+        <img class="logo" src="logo.svg" ></img>
+        <div class="toggle"></div>
+    </header>
+    <div class="overlay"></div>
+    <div class="text">
+        <div class="inner">
+            <h2 class="title">R/Place</h2>
+            <p>Bienvenue sur le site dédié à notre exploration. Si vous voulez revoir la fresque de la Pixel War, n'hésitez pas à cliquer sur le bouton ci-dessous.
+              <br>En espérant que cela vous plaise.
+              <br>Adel, Antoine et Hassan </p>
+            <p class="btn-container">
+                <a href="https://www.reddit.com/r/place/" class="btn">r/place</a>
+            </p>
+        </div>
+    </div>
+    </section>
+    <div class="menu">
+    <ul>
+        <li><a href="Présentation.html">Présentation</a></li>
+        <li><a href="Politisation.html">Politisation</a></li>
+        <li><a href="Psychologie des Foules.html">Psychologie des Foules</a></li>
+        <li><a href="Slacktivisme.html">Slacktivisme</a></li>
+        <li><a href="La Pixel War devient politique.html">La Pixel War devient politique</a></li>
+        <li><a href="Conclusion.html">Conclusion</a></li>
+    </ul>
+    </div>
+</div>
+<script>
+    const menuToggle = document.querySelector('.toggle');
+    const showcase = document.querySelector('.showcase');
+
+menuToggle.addEventListener('click', () => {
+menuToggle.classList.toggle('active');
+showcase.classList.toggle('active');
+})
+</script>
+</body>
+</html>

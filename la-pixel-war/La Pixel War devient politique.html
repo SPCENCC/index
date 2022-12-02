@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style2.css">
+<link rel="icon" type="image/x-icon" href="logo.svg">
+<title>La Pixel War Devient Politique</title>
+</head>
+<body>
+<div class="background-image">
+<section class="showcase">
+    <header>
+        <img class="logo" src="logo.svg" ></img>
+        <div class="toggle"></div>
+    </header>
+    <div class="float-container">
+
+        <div class="float-child">
+          <div class="green">
+            <p>À partir de quand la Pixel War est devenue politique ? Vous trouverez la réponse à cette interrogation dans cette vidéo... <br> Lien vers le Tweet de Eric Zemmour cité dans la vidéo : https://twitter.com/ZemmourEric/status/1510754316872732688/photo/1</p>
+          </div>
+        </div>
+
+        <div class="float-child">
+          <div class="blue">
+            <video src="Conclusion.mp4" controls>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <div class="menu">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="Présentation.html">Présentation</a></li>
+        <li><a href="Politisation.html">Politisation</a></li>
+        <li><a href="Psychologie des Foules.html">Psychologie des Foules</a></li>
+        <li><a href="Slacktivisme.html">Slacktivisme</a></li>
+        <li><a href="Conclusion.html">Conclusion</a></li>
+    </ul>
+    </div>
+</div>
+<script>
+    const menuToggle = document.querySelector('.toggle');
+    const showcase = document.querySelector('.showcase');
+
+menuToggle.addEventListener('click', () => {
+menuToggle.classList.toggle('active');
+showcase.classList.toggle('active');
+})
+</script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style2.css">
+<link rel="icon" type="image/x-icon" href="logo.svg">
+<title>La Psychologie des Foules</title>
+</head>
+<body>
+<div class="background-image">
+<section class="showcase">
+    <header>
+        <img class="logo" src="logo.svg" ></img>
+        <div class="toggle"></div>
+    </header>
+    <div class="float-container">
+
+        <div class="float-child">
+          <div class="green">
+            <p>Antoine revient sur la notion de psychologie des foules. Elle joue un rôle essentielle dans la compréhension de l'engouement autour de la Pixel War. <br>Source :  https://www.cairn.info/revue-hermes-la-revue-1988-2-page-226.htm</p>
+          </div>
+        </div>
+
+        <div class="float-child">
+          <div class="blue">
+            <video src="psychologie_des_foules.mp4" controls>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <div class="menu">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="Présentation.html">Présentation</a></li>
+        <li><a href="Politisation.html">Politisation</a></li>
+        <li><a href="Slacktivisme.html">Slacktivisme</a></li>
+        <li><a href="La Pixel War devient politique.html">La Pixel War devient politique</a></li>
+        <li><a href="Conclusion.html">Conclusion</a></li>
+    </ul>
+    </div>
+</div>
+<script>
+    const menuToggle = document.querySelector('.toggle');
+    const showcase = document.querySelector('.showcase');
+
+menuToggle.addEventListener('click', () => {
+menuToggle.classList.toggle('active');
+showcase.classList.toggle('active');
+})
+</script>
+</body>
+</html>
