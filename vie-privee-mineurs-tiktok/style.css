@@ -1,0 +1,40 @@
+body { background-color: #FFFFFF; font-family: "Calibri"; text-align: justify;}
+h1 { color: #00FFFF; text-align: center; font-family: "Ink Free"; font-size: 250%; margin-left: 10px}
+h2 { color: #00FFFF; text-align: center; font-family: "Ink Free"; font-size: 150%; margin-left: 10px;}
+h3 { color: #2D2E50; margin-left: 10px; margin-top: 50px; font-size: 150%;}
+h4 { text-transform: uppercase; font-size: 110%; text-decoration-line: underline; text-indent: 10px;}
+.paragraphe { background-color: inherit; padding: 10px}
+address { color: #FFFFFF; background-color: #000000; padding: 30px; width: 90%;}
+q { color: #000000;}
+a { color: #000000;}
+p { color: #000000; background-color: #00F2EA; padding: 30px; text-align: justify; border-radius: 5px; line-height: 25px; font-size: 110%;}
+.style2 { display: flex; margin: 0 auto; text-align: left; float: left; margin: 20px; width: 30%;}
+.style3 { display: flex; margin: 0 auto; text-align: left; float: left; width: 20%; margin-top: -30px;}
+.style4 { display: flex; margin: 0 auto; text-align: right; float: right; width: 20%;}
+.style1 { background-color: #FF0050; border: 2px inset #31502D; border-radius: 5px;}
+.style5 { display: flex; margin: 0 auto; text-align: right; float: right; width: 35%;}
+.citation {text-align: center; margin: 20px;}
+
+ol { margin: 0; padding-bottom: 25px; line-height: 25px;}
+.niv3 { list-style-type: square; white-space: pre;}
+
+
+
+.footer { position: static; left: 0; bottom: 0; width: 100%; background-color: #000000; color: white; text-align: left;}
+#sources {background-color: inherit; text-align: center; color: inherit; padding: 0; font-size: 90%; line-height: inherit;}
+.header { text-align: center; position: static; width: 100%; background-color: #000000; color: white; padding-bottom: 60px; padding-top: 60px;
+ border-radius: 5px;}
+section { background-color: #D1D1D1; margin: 2%;}
+
+.wrapper { display: flex; flex-direction: column; margin: 50px auto;}
+.row { display: flex; flex-direction: row;}
+.cell { display: flex; flex-direction: column; border: 1px black solid; margin: 1%; display: flex; height: 130px; width: 600px;
+  background-color: #FF0050; border-radius: 20px; line-height: auto; font-size: 110%;}
+
+ /*.cell img { object-fit: contain; max-height: 100%; max-width: 100%;}*/
+
+.auteur { text-align: right;}
+/*margin +  text-decoration-line: underline; + style2: margin: 10 30 10 50px; */
+/* text-indent: 25px;*/
+
+/* Clear floats after the columns */
