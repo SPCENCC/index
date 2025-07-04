@@ -1,0 +1,40 @@
+  body {
+      background-color: #072937;
+  }
+  * {
+  color: #dce8eb ;
+  line-height: 1.75;
+  text-align: justify;
+  width: 85% !important;
+  font-size: 12px;
+  margin:0 auto;    
+  }
+.titre1 {
+  font-size: 16px;
+}  
+.titre2 {
+  font-size: 15px;
+}  
+.titre3 {
+  font-size: 14px;
+}  
+.couleurtitre {
+  text-align: left;
+  color: #2ecac4;
+} 
+.couleurfondencadre {
+  text-align: justify;
+  background-color:  #0d5163;
+}
+.largeurencadre {
+  text-align: justify;
+  width: 70% !important;
+  margin:0 auto;
+}
+.divPourPhotos {
+  width: 100% !important;
+  text-align: center;
+}
+p {
+text-indent: 30px;
+}
